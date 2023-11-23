@@ -13,10 +13,6 @@ This notebook covers the fundamental analysis of NMR T1 relaxation data. It incl
 - Extraction of T1 relaxation time constants.
 - Visualization of fitted curves and results.
 
-### 2. Additional_Notebook.ipynb
-
-(Optional) Additional notebook for more specific analyses, comparisons, or advanced techniques related to NMR T1 relaxation.
-
 ## Usage
 
 To run the notebooks locally, ensure you have Python and Jupyter installed. For a hassle-free experience, consider using Google Colab by clicking the "Open in Colab" badge at the top of each notebook.
