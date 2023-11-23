@@ -1,5 +1,5 @@
 # NMR Analysis
-
+![Logo da Minha Aplicação](https://github.com/bposantos/NMR_Analysis/blob/main/nmr_analysis_logo.png)
 This repository contains Jupyter (Colab) notebooks with Python code for the analysis of Nuclear Magnetic Resonance (NMR) data. They help processing, interpreting and plotting data.
 
 ## Notebooks
